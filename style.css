@@ -4,10 +4,10 @@ body {
 }
 
 .example {
-    width: 100%; /*setting the class' width 100% before separating into 2 columns*/
+    width: 100%; 
 }
 
-.content {
+.content { /*these are properties for all the elements that have the class content*/
     background-color: blueviolet;
     height: 200px;
     margin: 1rem;
