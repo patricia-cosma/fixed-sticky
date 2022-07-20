@@ -1,5 +1,5 @@
 body {
-    display: flex; /*using flex display to for a flexbile responsive layout structure; therefore, therefore there will be no need to use float or positioning*/
+    display: flex; /*using flex display to for a flexbile responsive layout structure; therefore, there will be no need to use float or positioning*/
     background-color: grey; /*feel free to set any other color of your choice*/
 }
 
