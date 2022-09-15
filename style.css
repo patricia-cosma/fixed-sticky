@@ -1,13 +1,13 @@
 body {
-    display: flex; /*using flex display to for a flexbile responsive layout structure; therefore, therefore there will be no need to use float or positioning*/
+    display: flex; /*using flex display to for a flexbile responsive layout structure; therefore, there will be no need to use float or positioning*/
     background-color: grey; /*feel free to set any other color of your choice*/
 }
 
 .example {
-    width: 100%; /*setting the class' width 100% before separating into 2 columns*/
+    width: 100%; 
 }
 
-.content {
+.content { /*these are properties for all the elements that have the class content*/
     background-color: blueviolet;
     height: 200px;
     margin: 1rem;
